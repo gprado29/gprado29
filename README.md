@@ -1,8 +1,8 @@
 ## eai bb 👻
 
-meu nome é gabriella
+- meu nome é Gabriella
 
-estudo no alura
+- estudo no alura
 
 
 
